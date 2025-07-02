@@ -13,3 +13,9 @@ This endeavor is a key component of my SQL Mastery course with Interactive Cares
 
 ## The Dataset
 This hospital analytics dataset provides a comprehensive view of patient journeys and healthcare operations. It comprises four key components: Patients, detailing demographics and personal information; Encounters, capturing details of each patient visit, including costs and associated organizations/payers; Payers, outlining information about the insurance providers; and Procedures, recording the medical procedures performed during each encounter. This interconnected dataset is designed to facilitate insights into patient care, operational efficiency, and financial aspects within a hospital setting.
+
+## Your Approach and Process
+Data collection and cleaning challenges: Uploaded the csv files on supabase for backend database support and later connected the database with Metabse for further analysis. 
+Analysis techniques you tried (and why): 
+What didn't work and how you pivoted
+Tools and libraries used: Supabase, Metabase, S
