@@ -4,7 +4,10 @@ Analyze hospital patient encounters, costs, and behavior trends
 ## 💡 Why This Project?
 I am genuinely interested in hospital analytics, particularly in understanding how hospitals compete and operate within a complex healthcare landscape that includes smaller clinics and local practitioners. Through this project, I aim to grasp the intricacies of hospital operations and learn how to analyze overall business performance when the patient is the central focus. 
 
-This endeavor is a key component of my SQL Mastery course with Interactive Cares, where I've been given the opportunity to decompose raw healthcare data into meaningful insights. My primary goal is to uncover insights that can help healthcare providers better understand their patient demographics, treatment patterns, and operational efficiencies, ultimately enhancing patient care and optimizing resource allocation
+This endeavor is a key component of my SQL Mastery course with Interactive Cares, where I've been given the opportunity to decompose raw healthcare data into meaningful insights. My primary goal is to uncover insights that can help healthcare providers better understand their patient demographics, treatment patterns, and operational efficiencies, ultimately enhancing patient care and optimizing resource allocation.
+
+## Business Problem Statement
+
 
 ## Here's what I found:
 1.
@@ -18,4 +21,4 @@ This hospital analytics dataset provides a comprehensive view of patient journey
 Data collection and cleaning challenges: Uploaded the csv files on supabase for backend database support and later connected the database with Metabse for further analysis. 
 Analysis techniques you tried (and why): 
 What didn't work and how you pivoted
-Tools and libraries used: Supabase, Metabase, S
+Tools and libraries used: Supabase, Metabase, SQL
