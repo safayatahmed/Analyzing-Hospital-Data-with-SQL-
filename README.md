@@ -1,4 +1,4 @@
-# Analyzing-Hospital-Data-with-SQL-
+# Analyzing-Hospital-Data-with-SQL
 Analyze hospital patient encounters, costs, and behavior trends
 
 ## 💡 Why This Project?
